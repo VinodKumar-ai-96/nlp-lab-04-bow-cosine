@@ -1,9 +1,13 @@
 # LAB EXERCISE 04: Vector Space Modeling — Bag of Words (BoW) & Cosine Similarity
 
 **Course:** Natural Language Processing (CS-602/DS-604)
+
 **Student Name:** Vinod Kumar
-**Roll No:** 2K24/AI/94
+
+**Roll No:** 2K24/AI/96
+
 **Program:** BS Artificial Intelligence
+
 **University:** University of Sindh, Jamshoro
 
 ## Objective
